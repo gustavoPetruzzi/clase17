@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1463457246 source:c:\users\gustavo\desktop\c\arraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arraylist.h"
+
+1463453445 source:c:\users\gustavo\desktop\c\arraylist\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"input.h"
+
+1463453445 c:\users\gustavo\desktop\c\arraylist\input.h
+
+1463457742 source:c:\users\gustavo\desktop\c\arraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arraylist.h"
+	"input.h"
+
+1463455820 c:\users\gustavo\desktop\c\arraylist\arraylist.h
+
